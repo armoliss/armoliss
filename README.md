@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hey there. I'm a Full Stack Developer on a mission to code and crack you up. I code, I laugh, and occasionally I make my code laugh too.</div>  
   
 
@@ -67,11 +62,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=armoliss&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
 
 <br/>  
 
